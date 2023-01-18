@@ -1,3 +1,5 @@
+https://img.shields.io/badge/<Bruno Macedo>-<Developer>-<sucess>
+
 <div>
    <a href="https://github.com/BrunoM-Dev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoM-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
