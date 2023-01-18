@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/<Bruno Macedo>-<Developer>-<sucess>">
+<img src="https://img.shields.io/badge/Bruno Macedo-Developer-<sucess>">
 
 
 <div>
