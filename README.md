@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://beacons.ai/BrunoM-Dev">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight"/>
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BrunoM-Dev&show_icons=true&theme=tokyonight"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoM-Dev&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
