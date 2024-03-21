@@ -1,10 +1,7 @@
 ## Olá! Me chamo Bruno Macedo
 
-<div>
-   <a href="https://beacons.ai/BrunoM-Dev">
-   <img height="180em" style="margin-bottom:20px;" src="https://github-readme-stats.vercel.app/api?username=BrunoM-Dev&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoM-Dev&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+![BrunoM-Dev's Stats](https://github-readme-stats.vercel.app/api?username=BrunoM-Dev&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+
       
 <div style="display: inline_block"><br>
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
