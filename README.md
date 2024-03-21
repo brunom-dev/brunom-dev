@@ -1,4 +1,4 @@
-## Olá! Eu sou o Bruno Macedo
+## Olá! Me chamo Bruno Macedo
 
 <div>
    <a href="https://beacons.ai/BrunoM-Dev">
