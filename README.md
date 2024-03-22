@@ -1,6 +1,7 @@
 ## Olá! Me chamo Bruno Macedo
 
 ![BrunoM-Dev's Stats](https://github-readme-stats.vercel.app/api?username=BrunoM-Dev&theme=blue-green&show_icons=true&hide_border=false&count_private=true) 
+
 ![BrunoM-Dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoM-Dev&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ![BrunoM-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoM-Dev&theme=blue-green&hide_border=false)
