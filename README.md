@@ -8,6 +8,7 @@
 
 <div>
    <img align="center" alt="REACT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+   <img align="center" alt="TS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
    <img align="center" alt="JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="TAILWIND CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
