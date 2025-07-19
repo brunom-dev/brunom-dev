@@ -12,12 +12,12 @@
    <img align="center" alt="JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="TAILWIND CSS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
    <img align="center" alt="Node JS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-   <img align="center" alt="MySQL" height="70" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="C" height="40" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
    <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="CSS" height="40" width="50" hspace="5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="BOOTSTRAP" height="40" width="50" hspace="5" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" alt="MySQL" height="70" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 <br> 
