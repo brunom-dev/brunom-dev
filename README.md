@@ -1,7 +1,8 @@
-## Hello, devs! My name is Bruno Macedo
- 
-![BrunoM-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoM-Dev&theme=blue-green&hide_border=false)
+## Hi, I´m Bruno Macedo
 
+🎓 Computer scientist student at the Federal University of Cariri
+
+# 🖥️ Tech Stack
 <div>
    <img align="center" alt="REACT" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
    <img align="center" alt="TS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
@@ -16,8 +17,10 @@
     <img align="center" alt="MySQL" height="70" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-<br> 
+# 📊 GitHub Stats
+![BrunoM-Dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrunoM-Dev&theme=blue-green&hide_border=false)
 
+# 📊 Social Media
 <div> 
   <a href="https://instagram.com/eo_buno"  target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
