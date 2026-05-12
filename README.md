@@ -14,7 +14,9 @@
    <img align="center" alt="CSS" height="40" width="50" hspace="5" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
    <img align="center" alt="HTML" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
    <img align="center" alt="BOOTSTRAP" height="40" width="50" hspace="5" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="MySQL" height="70" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+   <img align="center" alt="Python" height="40" width="50" hspace="5" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+   <img align="center" alt="PostGRES" height="40" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+   <img align="center" alt="MySQL" height="70" hspace="8" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 # 📊 GitHub Stats
